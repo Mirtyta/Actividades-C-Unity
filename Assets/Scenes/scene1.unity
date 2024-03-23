@@ -285,8 +285,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 11
+  m_fontSizeBase: 11
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -356,12 +356,12 @@ MonoBehaviour:
   edad: 21
   rango: S+
   signo: Geminis
-  Player: {fileID: 0}
+  Player: {fileID: 1769508725}
   textoPuntaje: {fileID: 0}
   textoNombre: {fileID: 0}
   textoChakra: {fileID: 0}
   textoEdad: {fileID: 0}
-  textoVida: {fileID: 787790735}
+  textoVida: {fileID: 0}
   textoTChakra: {fileID: 0}
   textoSigno: {fileID: 0}
   textoRango: {fileID: 0}
@@ -451,8 +451,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 11
+  m_fontSizeBase: 11
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -522,7 +522,7 @@ MonoBehaviour:
   edad: 21
   rango: S+
   signo: Geminis
-  Player: {fileID: 0}
+  Player: {fileID: 1769508725}
   textoPuntaje: {fileID: 0}
   textoNombre: {fileID: 856214478}
   textoChakra: {fileID: 0}
@@ -591,7 +591,7 @@ MonoBehaviour:
   edad: 21
   rango: S+
   signo: Geminis
-  Player: {fileID: 0}
+  Player: {fileID: 1769508725}
   textoPuntaje: {fileID: 942352118}
   textoNombre: {fileID: 0}
   textoChakra: {fileID: 0}
@@ -647,8 +647,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 11
+  m_fontSizeBase: 11
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -757,7 +757,7 @@ MonoBehaviour:
   edad: 21
   rango: S+
   signo: Geminis
-  Player: {fileID: 0}
+  Player: {fileID: 1769508725}
   textoPuntaje: {fileID: 0}
   textoNombre: {fileID: 0}
   textoChakra: {fileID: 0}
@@ -813,8 +813,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 11
+  m_fontSizeBase: 11
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -923,7 +923,7 @@ MonoBehaviour:
   edad: 21
   rango: S+
   signo: Geminis
-  Player: {fileID: 0}
+  Player: {fileID: 1769508725}
   textoPuntaje: {fileID: 0}
   textoNombre: {fileID: 0}
   textoChakra: {fileID: 0}
@@ -979,8 +979,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 11
+  m_fontSizeBase: 11
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1115,8 +1115,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 11
+  m_fontSizeBase: 11
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1186,7 +1186,7 @@ MonoBehaviour:
   edad: 21
   rango: S+
   signo: Geminis
-  Player: {fileID: 0}
+  Player: {fileID: 1769508725}
   textoPuntaje: {fileID: 0}
   textoNombre: {fileID: 0}
   textoChakra: {fileID: 1056700858}
@@ -1477,7 +1477,7 @@ MonoBehaviour:
   edad: 21
   rango: S+
   signo: Geminis
-  Player: {fileID: 0}
+  Player: {fileID: 1769508725}
   textoPuntaje: {fileID: 0}
   textoNombre: {fileID: 0}
   textoChakra: {fileID: 0}
@@ -1533,8 +1533,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 11
+  m_fontSizeBase: 11
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1737,8 +1737,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 11
+  m_fontSizeBase: 11
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -1808,7 +1808,7 @@ MonoBehaviour:
   edad: 21
   rango: S+
   signo: Geminis
-  Player: {fileID: 0}
+  Player: {fileID: 1769508725}
   textoPuntaje: {fileID: 0}
   textoNombre: {fileID: 0}
   textoChakra: {fileID: 0}
@@ -1829,6 +1829,7 @@ GameObject:
   - component: {fileID: 1735420871}
   - component: {fileID: 1735420870}
   - component: {fileID: 1735420869}
+  - component: {fileID: 1735420872}
   m_Layer: 0
   m_Name: Canvas
   m_TagString: Untagged
@@ -1928,6 +1929,36 @@ Canvas:
   m_SortingLayerID: 0
   m_SortingOrder: 0
   m_TargetDisplay: 0
+--- !u!114 &1735420872
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1735420867}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03a21da004bacbc47a4a63e35cf5a51d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vida: 1000
+  nombre: Itachi Uchiha
+  puntaje: 10.5
+  ilumacion: 1
+  chakra: Fuego
+  tChakra: yin - yang
+  edad: 21
+  rango: S+
+  signo: Geminis
+  Player: {fileID: 1769508725}
+  textoPuntaje: {fileID: 942352118}
+  textoNombre: {fileID: 856214478}
+  textoChakra: {fileID: 1056700858}
+  textoEdad: {fileID: 1731659373}
+  textoVida: {fileID: 0}
+  textoTChakra: {fileID: 0}
+  textoSigno: {fileID: 0}
+  textoRango: {fileID: 0}
 --- !u!1 &1768416351
 GameObject:
   m_ObjectHideFlags: 0
@@ -2061,6 +2092,7 @@ GameObject:
   - component: {fileID: 1769508730}
   - component: {fileID: 1769508731}
   - component: {fileID: 1769508732}
+  - component: {fileID: 1769508733}
   m_Layer: 0
   m_Name: Player
   m_TagString: Untagged
@@ -2128,7 +2160,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1769508725}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -7.87, y: -2.26, z: 0}
+  m_LocalPosition: {x: -7.73, y: -1.6000001, z: 0}
   m_LocalScale: {x: 0.8403177, y: 0.7313572, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2169,7 +2201,7 @@ CapsuleCollider2D:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1769508725}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Density: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
@@ -2204,8 +2236,38 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1769508725}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ce4daaf6297a8f649a45f7f12197f113, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!114 &1769508733
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1769508725}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 03a21da004bacbc47a4a63e35cf5a51d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  vida: 1000
+  nombre: Itachi Uchiha
+  puntaje: 10.5
+  ilumacion: 1
+  chakra: Fuego
+  tChakra: yin - yang
+  edad: 21
+  rango: S+
+  signo: Geminis
+  Player: {fileID: 1769508725}
+  textoPuntaje: {fileID: 0}
+  textoNombre: {fileID: 0}
+  textoChakra: {fileID: 0}
+  textoEdad: {fileID: 0}
+  textoVida: {fileID: 0}
+  textoTChakra: {fileID: 0}
+  textoSigno: {fileID: 0}
+  textoRango: {fileID: 0}

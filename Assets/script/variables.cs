@@ -18,6 +18,7 @@ public class Variables : MonoBehaviour
     public string signo = "Geminis";
 
     public GameObject Player;
+    
     public TMP_Text textoPuntaje; //Declaro una variable del tipo texto llamado textoPuntaje
     public TMP_Text textoNombre;
     public TMP_Text textoChakra;
@@ -41,7 +42,7 @@ public class Variables : MonoBehaviour
         Debug.Log("signo: " + signo);
         Debug.Log("Rango: " + rango);
 
-        //Debug.Log("X: " + Player.transform.position.x);
+        Debug.Log("X: " + Player.transform.position.x);
     }
 
     // Update is called once per frame
