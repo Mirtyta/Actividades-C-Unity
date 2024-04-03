@@ -843,6 +843,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   a: 4
   b: 9
+  c: 1
   resultadoSumaVariables: {fileID: 1539327535}
   resultadoSumaValores: {fileID: 1247563597}
   resultadoConcatenado: {fileID: 1828777547}
